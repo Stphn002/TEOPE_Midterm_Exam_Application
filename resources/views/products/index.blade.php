@@ -6,7 +6,7 @@
     <title>Anime</title>
 </head>
 <body>
-    <h1>Anime</h1>
+    <h1>Anime Series</h1>
     <table border="1">
         <thead>
             <tr>
